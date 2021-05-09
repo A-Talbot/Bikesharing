@@ -13,7 +13,9 @@ An analysis of the CitiBike Bikesharing data was completed using Tableau. Prior 
 
 Additionally, the **GENDERS** column data was formatted into a string as shown below:
 
-![Genders Calculation](Resources/Genders Calculation.png)
+![GendersCalculation](Resources/GendersCalculation.png)
+
+The full analysis can be found here --> https://public.tableau.com/views/CitiBike_16205595846760/Story?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
 
 ## Results
 
