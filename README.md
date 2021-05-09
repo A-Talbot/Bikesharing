@@ -20,7 +20,7 @@ Additionally, the **GENDERS** column data was formatted into a string as shown b
 ![CheckoutTimes](Resources/Checkout Times.png)
 ![Weekday Hourly](Resources/Weedkday Hourly.png)
 ![Gender Weekday](Resources/Gender Weekday.png)
-![Usertype Gender Weekday](Resources/Usertype Gender Weekday.png)
+![Usertype Gender Weekday](Resources/Story.png)
 
 ## Summary
 
