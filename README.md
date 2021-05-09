@@ -16,5 +16,5 @@ Additional visualizations that can be used to help understand the data includes 
 * Map of most common START locatons
 * Map of most common STOP locations
 Having the above visualizations would help determine where to place CitiBike Stations (see images below where BLUE are START locations and ORANGE are STOP locations)
-![START]("..Resources/START.png")
-![STOP]("..Resources/START.png")
+![START](Resources/START.png)
+![STOP](Resources/START.png)
