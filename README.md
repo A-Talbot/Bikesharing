@@ -29,7 +29,7 @@ Additionally, the **GENDERS** column data was formatted into a string as shown b
 In conclusion:
 * Most riders were male
 * The majority of rides lasted less than one hour
-* Weekday peak times were from 7:00 am to ***9:00 am and 4:00 pm to 6:00 pm*** and weekend peak times were from around ***9:00 am to 5:00 pm***
+* Weekday peak times were from ***6:00 am to ***10:00 am and 4:00 pm to 7:00 pm*** and weekend peak times were from around ***9:00 am to 7:00 pm***
 
 ### Additional Visualizations
 
